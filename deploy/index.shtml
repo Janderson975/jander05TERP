@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Jack Anderson Deployment Page</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+  <h1>Sample Page for Deployment on Render</h1>
+  <ul>
+		  <li><strong>Name: </strong>Jack Anderson</li>
+		  <li><strong>GitHub Location: </strong><a href="https://github.com/Janderson975/jander05TERP">https://github.com/Janderson975/jander05TERP</a></li>
+		  <li><strong>Render Location: </strong><a href="https://jander05terp.onrender.com/">https://jander05terp.onrender.com/</a></li>
+		  <li><strong>Clearing Database Movies: </strong><a href="https://jander05terp.onrender.com/clearCollection">https://jander05terp.onrender.com/clearCollection</a></li> 
+		  <li><strong>Inserting Movies: </strong><a href="https://jander05terp.onrender.com/insertMovies">https://jander05terp.onrender.com/insertMovies</a></li> 
+		  <li><strong>List Movies: </strong><a href="https://jander05terp.onrender.com/listMovies">https://jander05terp.onrender.com/listMovies</a></li> 
+  </ul>
+
+</body>
+
+</html>
